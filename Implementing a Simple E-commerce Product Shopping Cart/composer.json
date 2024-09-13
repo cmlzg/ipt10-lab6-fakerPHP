@@ -1,0 +1,12 @@
+{
+    "name": "aufccs/ipt10-lab6",
+    "description": "E-Commerce Shopping Cart",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlex Lazaga"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
