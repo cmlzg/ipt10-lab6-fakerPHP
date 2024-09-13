@@ -1,0 +1,14 @@
+{
+    "name": "aufccs/ipt10-lab6",
+    "description": "A simple PHP project using Composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlex Lazaga"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
